@@ -1,0 +1,135 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col23568</md:content-id>
+    <md:title>General Chemistry II - Pearson, Tusculum Chemistry, Fall 2017</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>8557b5a4-18d6-48b5-b83f-7900ea865fc4</md:uuid>
+<md:slug>general-chemistry-ii-pearson-tusculum-chemistry-fall-2017</md:slug>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>CHEM 101 Big Ideas</md:title>
+      <col:content>
+        <col:module document="m51007"/>
+        <col:module document="m51011"/>
+        <col:module document="m51021"/>
+        <col:module document="m51024"/>
+        <col:module document="m51065"/>
+        <col:module document="m51049"/>
+        <col:module document="m51053"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Introduction to Thermochemistry</md:title>
+      <col:content>
+        <col:module document="m51032"/>
+        <col:module document="m51033"/>
+        <col:module document="m51034"/>
+        <col:module document="m51035"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Energy and Phase Changes</md:title>
+      <col:content>
+        <col:module document="m51073"/>
+        <col:module document="m51068"/>
+        <col:module document="m51077"/>
+        <col:module document="m51079"/>
+        <col:module document="m51080"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Introduction to Kinetics</md:title>
+      <col:content>
+        <col:module document="m51095"/>
+        <col:module document="m51014"/>
+        <col:module document="m51097"/>
+        <col:module document="m51098"/>
+        <col:module document="m51099"/>
+        <col:module document="m51101"/>
+        <col:module document="m51102"/>
+        <col:module document="m51103"/>
+        <col:module document="m51104"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Introduction to Chemical Equilibrium</md:title>
+      <col:content>
+        <col:module document="m51107"/>
+        <col:module document="m51108"/>
+        <col:module document="m51109"/>
+        <col:module document="m51110"/>
+        <col:module document="m51112"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Acids, Bases, and Equilibria</md:title>
+      <col:content>
+        <col:module document="m51113"/>
+        <col:module document="m51030"/>
+        <col:module document="m51116"/>
+        <col:module document="m51117"/>
+        <col:module document="m51118"/>
+        <col:module document="m51120"/>
+        <col:module document="m51121"/>
+        <col:module document="m51123"/>
+        <col:module document="m51124"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Spontaneity, Entropy and Free Energy</md:title>
+      <col:content>
+        <col:module document="m51136"/>
+        <col:module document="m51137"/>
+        <col:module document="m51138"/>
+        <col:module document="m51141"/>
+        <col:module document="m51142"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Electrochemistry</md:title>
+      <col:content>
+        <col:module document="m51146"/>
+        <col:module document="m51148"/>
+        <col:module document="m51149"/>
+        <col:module document="m51150"/>
+        <col:module document="m51151"/>
+        <col:module document="m51152"/>
+        <col:module document="m55220"/>
+        <col:module document="m55202"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>CHEM 102 Overflow</md:title>
+      <col:content>
+        <col:module document="m51081"/>
+        <col:module document="m51082"/>
+        <col:module document="m51085"/>
+        <col:module document="m51086"/>
+        <col:module document="m51087"/>
+        <col:module document="m51088"/>
+        <col:module document="m51091"/>
+        <col:module document="m51127"/>
+        <col:module document="m51131"/>
+        <col:module document="m51134"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Appendices and Tables</md:title>
+      <col:content>
+        <col:module document="m51209"/>
+        <col:module document="m51211"/>
+        <col:module document="m51213"/>
+        <col:module document="m51215"/>
+        <col:module document="m51217"/>
+        <col:module document="m51219"/>
+        <col:module document="m51221"/>
+        <col:module document="m51225"/>
+        <col:module document="m51226"/>
+        <col:module document="m51230"/>
+        <col:module document="m51231"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
